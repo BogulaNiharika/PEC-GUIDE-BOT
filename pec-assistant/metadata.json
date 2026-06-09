@@ -1,0 +1,6 @@
+{
+  "name": "PEC Assistant",
+  "description": "Official AI-powered chatbot for Pragati Engineering College (PEC)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
